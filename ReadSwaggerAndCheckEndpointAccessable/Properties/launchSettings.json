@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReadSwaggerAndCheckEndpointAccessable": {
+      "commandName": "Project",
+      "commandLineArgs": "TokenCheck.exe --baseUrl \"https://localhost:44378\" --swaggerUrl \"https://localhost:44378/openapi/v1.json\" --token \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJHZnNhX1VzZXIiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImEwZWY5NjVmLTY1NDItNGE2NC1hMWI5LTAyNTExYzQ4YjRlNiIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJHZnNhVXNlciIsImp0aSI6IjYzNThiZDNhLWRjMDktNDNhMy04ZTM4LTcxMTdhMTYwMDIzZSIsIkFwaUtleSI6ImUwNWExNWUxLWIyZTAtNGMyMy05YmZiLWE2Y2I2OTljNWU3NyIsIm5iZiI6MTc2NTQ0NzUzNSwiZXhwIjoxNzY1ODc5NTM1LCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo0NDM3OCIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0Mzc4In0.O1AyE9DDWN_wNswsFWN9QStTHCXJnbQ-LfdJ5mqsiWM\""
+    }
+  }
+}
